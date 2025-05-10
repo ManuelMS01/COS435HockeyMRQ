@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: air_hockey_agent
+Version: 0.1
+License-File: LICENSE
+Requires-Dist: torch
+Requires-Dist: numpy
+Dynamic: requires-dist
