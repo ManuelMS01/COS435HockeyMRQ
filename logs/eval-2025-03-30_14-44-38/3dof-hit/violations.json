@@ -1,0 +1,9 @@
+{
+    "Episode 0": [
+        "joint_vel_constr violated"
+    ],
+    "violation summary": {
+        "joint_vel_constr": 1,
+        "Total": 1
+    }
+}

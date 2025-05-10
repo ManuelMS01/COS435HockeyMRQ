@@ -1,0 +1,12 @@
+{
+    "3dof-hit": {
+        "Success": 1.0,
+        "Penalty": 1,
+        "Color": 0
+    },
+    "Total Score": {
+        "Score": 0.0,
+        "Max Penalty": 1,
+        "Color": 0
+    }
+}
