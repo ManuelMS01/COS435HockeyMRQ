@@ -1,5 +1,6 @@
 # Air Hockey Challenge 2023
-
+The MRQ was largely adapted from 
+[ [ Website ] (https://github.com/facebookresearch/MRQ) ]
 [ [Website] ](https://air-hockey-challenge.robot-learning.net/) [ [Documentation] ](https://air-hockey-challenges-docs.readthedocs.io/en/latest/)  [ [Discussion] ](https://github.com/AirHockeyChallenge/air_hockey_challenge/discussions)
 
 This is the source code for the Air Hockey Challenge.
