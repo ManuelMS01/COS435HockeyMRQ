@@ -1,5 +1,5 @@
 # Air Hockey Challenge 2023
-The MRQ was largely adapted from 
+The MRQ was largely adapted from Facebook Research's adapation which is listed below. We made adjustments to predominantel the learning method to fit in with the Air Hockey Challenge requirements
 [ [ Website ] (https://github.com/facebookresearch/MRQ) ]
 [ [Website] ](https://air-hockey-challenge.robot-learning.net/) [ [Documentation] ](https://air-hockey-challenges-docs.readthedocs.io/en/latest/)  [ [Discussion] ](https://github.com/AirHockeyChallenge/air_hockey_challenge/discussions)
 
